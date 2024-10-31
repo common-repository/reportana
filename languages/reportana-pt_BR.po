@@ -1,0 +1,38 @@
+msgid "Reportana"
+msgstr "Reportana"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Client ID"
+msgstr "Client ID"
+
+msgid "Client Secret"
+msgstr "Client Secret"
+
+msgid "Save settings"
+msgstr "Salvar configurações"
+
+msgid "Settings saved successfully"
+msgstr "Configurações salvas com sucesso"
+
+msgid "Client ID cannot be empty"
+msgstr "Client ID não pode ser vazio"
+
+msgid "Client Secret cannot be empty"
+msgstr "Client Secret não pode ser vazio"
+
+msgid "Installation instructions"
+msgstr "Instruções de instalação"
+
+msgid "In your Reportana account, navigate to Settings in the sidebar menu → Gear → Change platform → WooCommerce. Or go to: <a target=\"_blank\" href=\"https://app.reportana.com/#/settings/platforms/woocommerce\">WooCommerce Integration.</a>"
+msgstr "Em sua conta da Reportana, navegue até Configurações no menu lateral → Engrenagem → Alterar plataforma → WooCommerce. Ou acesse: <a target=\"_blank\" href=\"https://app.reportana.com/#/settings/platforms/woocommerce\">Integração com WooCommerce.</a>"
+
+msgid "Copy the Client ID and Client Secret."
+msgstr "Copie o Client ID e Client Secret."
+
+msgid "Go to the Reportana plugin settings and paste the Client ID and Client Secret into the respective fields."
+msgstr "Acesse as configurações do plugin da Reportana e cole as credenciais Client ID e Client Secret nos respectivos campos."
+
+msgid "Click Save settings."
+msgstr "Clique em Salvar configurações."
